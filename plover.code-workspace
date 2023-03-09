@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../plover"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Library/Application Support/plover/plugins/mac/lib/python/site-packages/plover_plugins_manager"
+		}
+	]
+}

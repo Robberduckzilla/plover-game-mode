@@ -1,0 +1,3 @@
+[plover.extension]
+plover_game_mode = plover_game_mode:GameMode
+

@@ -1,0 +1,10 @@
+plover_game_mode.py
+setup.cfg
+setup.py
+plover_game_mode.egg-info/PKG-INFO
+plover_game_mode.egg-info/SOURCES.txt
+plover_game_mode.egg-info/dependency_links.txt
+plover_game_mode.egg-info/entry_points.txt
+plover_game_mode.egg-info/requires.txt
+plover_game_mode.egg-info/top_level.txt
+plover_game_mode.egg-info/zip-safe
