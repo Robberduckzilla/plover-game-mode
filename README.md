@@ -2,10 +2,9 @@
 
 ## A monkeypatch-type plugin for plover that allows use of a steno keyboard (specifically a Univ4) in games such as Epistory and/or Nanotale.
 
-The behaviours of the plugin are as follows
-
-1. Suppress space bar between words - In Epistory, space bar changes stances, so we suppress its output from plover.
-2. Re-type entire compound words. - In Epistory, backspace will remove an entire word, so compound words will not type correctly from Plover. By backspacing the whole word and re-typing it as part of Plover's output, this allows words of any length to be written in-game.
+The behaviours of the plugin are to:
+- Re-type entire compound words. 
+    - In Epistory, backspace will remove an entire word, so compound words will not type correctly from Plover. By backspacing the whole word and re-typing it as part of Plover's output, this allows words of any length to be written in-game.
 
 
 ## Other notes
